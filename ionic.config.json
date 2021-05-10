@@ -1,0 +1,7 @@
+{
+  "name": "marklinton_act02",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
